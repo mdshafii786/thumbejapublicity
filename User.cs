@@ -1,4 +1,4 @@
-namespace MyWebAPI.Models
+namespace thumbejapublicity.Models
 {
     public class User
     {
