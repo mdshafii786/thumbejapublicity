@@ -3,7 +3,7 @@ using thumbejapublicity.Models;
 using System.Collections.Generic;
 using System.Web.Http;
 
-namespace MyWebAPI.Controllers
+namespace   thumbejapublicity.Controllers
 {
     public class UsersController : ApiController
     {
