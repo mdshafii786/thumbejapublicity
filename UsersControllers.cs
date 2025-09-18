@@ -1,5 +1,5 @@
 
-using MyWebAPI.Models;
+using thumbejapublicity.Models;
 using System.Collections.Generic;
 using System.Web.Http;
 
